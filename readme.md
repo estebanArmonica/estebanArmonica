@@ -1,61 +1,41 @@
-<h2 align="left">Hi 👋! My name is Esteban Lobos and I'm a computer engineer</h2>
+# 👋 ¡Hola! Soy Esteban Lobos
 
-###
+Soy **Ingeniero en Informática** con **2 años de experiencia** en desarrollo de software, **gestión de bases de datos**.
+Certificado como **Ingeniero en Informática, Desarrollador de Software por Duoc UC**, con solidos conocimientos 
+en análisis de requerimientos y automatización en PL/SQL.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+Apasionado por la mejora continua y la implementación de soluciones tecnológicas eficientes y seguras.
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gitlab logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
+## 🛠️ Tecnologías y Habilidades
 
-###
+### 💻 Lenguajes y Frameworks
+- **Backend:** Python, Java, TypeScript, NodeJS, Django, Spring Boot, FastAPI
+- **Frontend:** JavaScript, Angular, HTML/CSS, Ionic
+- **Móvil:** Flutter
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-</div>
+### 🗃️ Bases de Datos
+- MySQL, Oracle SQL, SQL Server, PostgreSQL, Redfish
+_(Experiencia en diseño, administración y optimización de consultas)_
 
-###
+### 🔐 IoT
+- RaspBerry _(Experiencia en levantamiento de sistemas ERP en producción con sistema de Facturación con S.I.I con Nginx)_
+- Arduino
+
+### 💻 OS
+- Linux (Ubuntu Server, Kali Linux, Linux Minit)
+_(Con experiencia para levantamiento de servidores en Linux y ciberseguridad)_
+
+---
+
+## 🚀 Proyectos Destacados
+
+- 🎫 [CryptoTrading](https://github.com/estebanArmonica/cryptoTradin.git) — Página web donde puedes comprar o vender una criptomoneda con datos de Coingecko 
+- [AxialKineWeb](https://gitlab.com/armonica21/axialkineweb.git) - sistema de suscripciones para clientes los cuales no pueden ir directamente por diversos motivos a sus sesiones con los kinesiologos
+---
+
+## 🌐 Conecta Conmigo
+
+- [LinkedIn](https://www.linkedin.com/in/esteban-lobos-6a3859222/)
+- [Correo](esteban.hernan.lobos@gmail.com)
