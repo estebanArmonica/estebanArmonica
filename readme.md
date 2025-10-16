@@ -33,9 +33,11 @@ _(Con experiencia para levantamiento de servidores en Linux y ciberseguridad)_
 
 - 🎫 [CryptoTrading](https://github.com/estebanArmonica/cryptoTradin.git) — Página web donde puedes comprar o vender una criptomoneda con datos de Coingecko 
 - [AxialKineWeb](https://gitlab.com/armonica21/axialkineweb.git) - sistema de suscripciones para clientes los cuales no pueden ir directamente por diversos motivos a sus sesiones con los kinesiologos
+- [HealthAI](https://github.com/estebanArmonica/sistema-prediccion-medico.git) - Sistema predictivo medico el cual ayuda con una IA a prevenir diferentes tipos de problemas que puedan tener pacientes o adultos mayores
 ---
 
 ## 🌐 Conecta Conmigo
 
 - [LinkedIn](https://www.linkedin.com/in/esteban-lobos-6a3859222/)
 - [Correo](esteban.hernan.lobos@gmail.com)
+
